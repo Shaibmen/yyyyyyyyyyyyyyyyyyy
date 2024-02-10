@@ -1,0 +1,131 @@
+html {
+    background-image: url(photo_5348470371269072786_w.jpg);
+}
+
+
+header {
+    width: 80vw;
+    margin: 0 10vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    width: 80vw;
+    margin: 0 10vw;
+    flex-direction: column;
+}
+
+.boba {
+    display: flex;
+    justify-content: left;
+
+}
+
+a {
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+}
+
+.Home {
+    color: greenyellow;
+}
+
+.Button_header {
+    display: flex;
+    gap: 50px;
+    font-family: Larken-Regular;
+    font-size: 18px;
+}
+
+.Preview_main {
+    display: flex;
+    margin-top: 201px;
+
+
+}
+
+.big_text {
+    display: flex;
+    color: white;
+    font-family: Larken-Regular;
+    font-size: 72px;
+    font-weight: 400;
+    justify-content: left;
+  }
+
+
+.small_text {
+    display: flex;
+    color: white;
+    font-family: Larken-Regular;
+    font-size: 20px;
+    font-weight: 400;
+    justify-content: left;
+    
+}
+
+.point {
+    margin-top: 85px;
+    color: greenyellow;
+}
+
+.scroll {
+    display: flex;
+    justify-content: center;
+}
+
+.group {
+    display: flex;
+    justify-content: right;
+}
+
+.govno_scroll {
+    display: flex;
+    justify-content: center;
+}
+
+.linia {
+    margin: 0 0;
+    width: 100%;
+    margin-top: 3vh;
+}
+
+.xyi {
+    display: flex;
+    justify-content: space-between;
+}
+
+zalupa {
+    display: flex;
+    width: 80vw;
+    margin: 0 10vw;
+    flex-direction: column;
+}  
+
+.pupa {
+    display: flex;
+    color: white;
+    font-family: Larken-Regular;
+    font-size: 75px;
+    font-weight: 400;
+    justify-content: left;
+}
+
+.daynizm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pipisu {
+    display: flex;
+    color: white;
+    font-family: Larken-Regular;
+    font-size: 20px;
+    font-weight: 400;
+    justify-content: left;
+}
